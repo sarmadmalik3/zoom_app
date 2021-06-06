@@ -1,0 +1,6 @@
+framework module Pods_ZoomApp {
+  umbrella header "Pods-ZoomApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
